@@ -1,0 +1,45 @@
+.contanier{
+    padding: 0 190px;
+    max-width: 1400px;
+ }
+ .information {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    height: 1338px;
+    width: 100%;
+}
+.information__text1{
+    padding: 100px 190px;
+    height: 620px;
+    width: 100%;
+    background: #F1F2FB;
+    display: flex;
+    column-gap: 470px;
+}
+.information__text1 span{
+    font-weight: 600;
+    font-size: 35px;
+}
+.information__text1 p{
+    width: 625px;
+    font-size: 20px;
+    padding: 20px 0 40px 0;
+}
+.information__text2{
+    padding: 100px 190px;
+    height: 620px;
+    width: 100%;
+    background: #F4FDFF;
+    display: flex;
+    column-gap: 470px;
+}  
+.information__text2 span{
+    font-weight: 600;
+    font-size: 35px;
+}
+.information__text2 p{
+    width: 625px;
+    font-size: 20px;
+    padding: 20px 0 40px 0;
+}
